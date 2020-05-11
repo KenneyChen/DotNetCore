@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rootobject>
+    <Connections>
+        <Mysql>我是xml-mysql节点</Mysql>
+        <test>我是xml测试节点</test>
+    </Connections>
+</Rootobject>

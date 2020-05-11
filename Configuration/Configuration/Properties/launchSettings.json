@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Configuration": {
+      "commandName": "Project",
+      "commandLineArgs": "test3=我是命令行参数",
+      "environmentVariables": {
+        "test3": "woshi test 3 环境变量"
+      }
+    }
+  }
+}
